@@ -126,7 +126,6 @@ export default function LandingPage() {
               style={{
                 background: 'rgba(255,255,255,0.07)',
                 border: '1px solid rgba(255,255,255,0.12)',
-                focusRingColor: '#7C3AED',
               }}
             />
             <input
